@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation declaring Mr. Richard Cameron, and others, rebels and traitors, &amp;c.</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70979</idno>
+            <idno type="STC">Wing S1736</idno>
+            <idno type="STC">ESTC R35941</idno>
+            <idno type="EEBO-CITATION">15579970</idno>
+            <idno type="OCLC">ocm 15579970</idno>
+            <idno type="VID">103910</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70979)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103910)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1184:75 or 1389:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation declaring Mr. Richard Cameron, and others, rebels and traitors, &amp;c.</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+                  <author>Paterson, William, 1658-1719.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>For Andrew Forrester ...,</publisher>
+                  <pubPlace>Reprinted at London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Will. Paterson, Cl. Sti. Concil.</note>
+                  <note>This item can be found at reels 1184:75 and 1389:21.</note>
+                  <note>Wing number C3286 (item at 1184:75) cancelled in Wing (CD-ROM, 1996).</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cameron, Richard, 1657-1680.</term>
+               <term>Covenanters --  England.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:103910:1" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <head>C<hi rend="sup">2</hi> R</head>
+                  <q xml:lang="frm">DIEV ET MON DROIT</q>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon flanked by the English lion and Scottish unicorn</figDesc>
+               </figure>
+            </head>
+            <head>A PROCLAMATION</head>
+            <head type="sub">Declaring Mr. <hi>Richard Cameron,</hi> and others, Rebels and Traitors, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <signed>
+                  <seg rend="decorInit">C</seg>HARLES, by the Grace of God, King of Great <hi>Britain, France,</hi> and <hi>Ireland,</hi> Defender of the Faith,</signed> 
+               <salute>To Our Lyon King at Arms, and his Brethren, Heraulds, Macers, Purſevants and Meſſengers at Arms, our Sheriffs in that part, conjunctly, and ſeverally, ſpecially conſtitute, Greeting:</salute>
+            </opener>
+            <p>Foraſmuch, as Mr. <hi>Richard Cameron, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Cameron</hi> his Brother, Mr. <hi>Thomas Douglas,</hi> Mr. <hi>Donald Cargill,</hi> and others their Accomplices, Have now at laſt ſhaken off all reſpect to Our Laws, and their Allegiance it ſelf to Us their undoubted Soveraign, and have entered into expreſs and open Combi<g ref="char:EOLhyphen"/>nates and Covenants, wherein they moſt Sacrilegiouſly do by a ſolemn Oath, Ingage themſelves to diſown Us and Our Au<g ref="char:EOLhyphen"/>thority, and declare it not onely lawfull, but a Chriſtian duty upon all Our Subjects to riſe in Arms againſt Us, and to Murther ſuch as are in any Truſt or Imployment under Us, declaring Us an Uſurper, and that none ſhould obey them who are in Authority under Us, but ſuch as would obey the Devil and his Vice-gerents; and that they will chuſe and ſet up Magiſtrates, who ſhall govern them according to the Judicial Law of <hi>Moſes,</hi> and not according to the Laws made by Us or any of Our Predeceſſors. Which Covenant, with ſeveral moſt Impious, Scandalous, and Seditious Pamphlets, were taken from the ſaid Mr. <hi>Donald Cargil,</hi> (one of their Preachers) at the <hi>Queens Ferry,</hi> upon the Third day of <hi>June</hi> inſtant. Likeas, the ſaid Mr. <hi>Richard Cameron,</hi> and his Brother, and Mr. <hi>Thomas Douglas,</hi> accompanied with ſeveral Ruſſians, and particularly <hi>John Vallang,</hi> Brother-in-Law to <hi>Robert Park,</hi> one of the Bailiffs of <hi>Sanquhar, Daniel Mackmitchel</hi> in <hi>Lorgfoot, Thomas Campbel,</hi> Son to <hi>
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Campbel</hi> late of <hi>Dalblair</hi> in <hi>Auchinleck</hi> Paroch, <hi>John Moodie,</hi> Bro<g ref="char:EOLhyphen"/>ther to the Miller at <hi>Cubs-Milne</hi> in the ſame Paroch, <hi>John Fowller,</hi> ſometimes ſervant to the deceaſt <hi>
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Lindſay</hi> of <hi>Covingtown, Patrick Gemill,</hi> Son-in law to <hi>Charles Logan,</hi> Meſſenger at <hi>Cumnock</hi> maines, <hi>James Stewart,</hi> Son to <hi>Archibald Stewart</hi> at <hi>Calſey-end,</hi> near to the Earl of <hi>Galloway's</hi> Houſe, <hi>Alexander Gordown,</hi> called of <hi>Kilſture, Francis Johnſtoun</hi> Merchant in <hi>Clidſdale, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Creichtown,</hi> Son to <hi>Robert Creichtown</hi> of <hi>Achtitinch,</hi> now in <hi>Water-head,</hi> and others to the number of twenty one perſons, did upon the twenty two of <hi>June,</hi> enter within the Burgh of <hi>Sanquhar,</hi> with drawn Swords and Piſtols in their hands, and after a ſolemn proceſſion through the Town, did draw up at the Croſs, and publiſhed and affixed upon the Croſs, and other publick places thereof: a moſt Treaſonable and unparralelled Paper, diſowning Us to be their King, and defaming Us with the very ſame Names and Deſignations uſed by the Uſurpers in their greateſt rage after they had Murthered the King, our Royal and bleſſed Fa<g ref="char:EOLhyphen"/>ther of eternal memory, and overturned all the Fundamental Laws and Rights belonging to Us and Our Subjects, whoſe Principles and Footſteps they exactly renew and follow: The reading and affixing of which Proclamation by theſe Traytors and Rebels, being clearly proved to Our Pri<g ref="char:EOLhyphen"/>vy-Council by Witneſſes upon Oath; and it being notour and undeniable, that theſe Traitors, to the number of ſeventy, or thereby, continue in Armes, committing all manner of Outrages and Inſolencies. We have therefore, with Advice of our Privy-Council, thought fit, as uſe is in ſuch caſes, to declare the ſaid Mr. <hi>Richard Cameron, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Cameron</hi> his Brother, Mr. <hi>Thomas Douglas,</hi> Mr. <hi>Donald Cargill, John Vallang, Daniel Mackmit<g ref="char:EOLhyphen"/>chel, Thomas Campbel, John Mudy, Patrick Gemill, James Stewart, Alexander Gordown, Francis Johnſtown,</hi> and <hi>
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Creichtown,</hi> open and noto<g ref="char:EOLhyphen"/>rious Tratiors and Rebels againſt Us and Our Authority, impowering and requiring all Our good Subjects to treat them as ſuch. And particu<g ref="char:EOLhyphen"/>larly, We hereby require and command all Our good Subjects, as they will be anſwerable upon their Allegiance, to do their utmoſt diligence to diſcover the ſaid Traitors, and to give timous Intimation with all poſſible ſpeed, in caſe they be not able to ſeize and apprehend them themſelves, to the neareſt Officer of Our ſtanding Forces, (if any be within twelve Miles) and if none be within the ſaid diſtance, to the next Magiſtrate, com<g ref="char:EOLhyphen"/>manding all perſons to concur with Our Forces for apprehending the ſaid Traitors. And to the effect, the Harbourers and Reſetters, or thoſe who neglect to diſcover them, may be known and puniſhed, We do require the hail Heretors, or their Bailiffs or Chamberlands, in caſe of the Heretors ab<g ref="char:EOLhyphen"/>ſence, to cauſe call and cite before them in a Court, all perſons living upon their reſpective Lands, Men or Women, above the age of ſixteen years, in all the Paroches under-written, <hi>viz. Carsfern, Balmaclellan, Dalry, Kells, Barr</hi> in <hi>Carrick,</hi> the <hi>Moor Kirk</hi> of <hi>Kyle, Galſtown, Lowdon, Tindergarth, Stre<g ref="char:EOLhyphen"/>ven, Leſmehago, Sanquher, Irongray, Glencairn, Cumnock, Monigaff,</hi> and <hi>Penningham,</hi> upon the ſecond and laſt Tueſdays of <hi>July</hi> and <hi>August</hi> next. And to take the Oaths of all the ſaid perſons living upon the reſpective Lands, whether any of theſe Traitors foreſaid were in that Paroch, and where and when: and leſt they may pretend not to know the ſaids Traitors, that they diſcover upon Oath any skulking or lurking perſons which they have known to have been in that Paroch, after the Publication hereof in the reſpective ſhires; and the Heretors or their Bailiffs and Chamber<g ref="char:EOLhyphen"/>lands in their abſence, to give an account of their diligence in Writing, within eight days after each Dyet foreſaid, to the Sheriffs, Stewarts, Bai<g ref="char:EOLhyphen"/>liffs of Regalities, Magiſtrates of Burghs, and ſhall adjoyn thereto the following Declaration upon Oath.</p>
+            <p>
+               <q>
+                  <hi>I</hi> 
+                  <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> do ſolemnly ſwear by the Eternal God, that I have truly and faithfully examined upon Oath, the whole Perſons Men and Women living upon my Lands who compeared, who are above the age of ſixteen Years, whereof I am Heretor, Bailiff, or Chamberlain, within the Paroch of and that I cauſed my Officers give Execution upon Oath, that he did cite all the ſaid Perſons to the foreſaids Diets, and have given an account of the Perſons who compeared not, or compearing, refuſed to give Oath.</q> And in caſe the ſaids Traitors ſhould leave and diſhaunt the abovenamed Paro<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hes, and repair to other Parochs or places, that immediatly upon notice from the Lieutenant-General, or any authoriſed by him to the Sheriffs and other Magiſtrats of the reſpective Burghs, where from time to time they reſort, the ſaid Magiſtrats are ordained to make intimation of the Hereots of their Bailiffs, or their Chamberlains in their abſence, to the end they may make the ſame enquiry after the ſame way and method, and to return an account of their diligence within two Moneths after ſuch Intimation from the Lieutenant-General as aforeſaid; with certification to ſuch as com<g ref="char:EOLhyphen"/>pear not and Depone, ſhall be holden and repute as connivers at, and concealers, of the ſaid Traitors; and that the Heretors, or in their abſence their Bailiffs and Chamberlains who ſhall not return their accounts to the ſaid reſpective Magiſtrats as aforeſaid, or their Deputs, and the ſaid Magiſtrats who ſhall not return their accounts to our Council the firſt Council day in <hi>Auguſt,</hi> for their diligence in <hi>July,</hi> and the firſt Council day of <hi>September</hi> for their diligence in <hi>Auguſt,</hi> ſhall be proceeded againſt with all rigor, as connivers at, and concealers of the ſaid Traitors. And further, We do hereby require and command all Sheriffs, Stewarts, Bailiffs of Regalities, and Magiſtrats of Burghs where the ſaids Traitors uſe to haunt or reſort, to raiſe ſuch perſons in their reſpective Juriſdictions, as they ſhall find neceſſar for that Service, for whom they will be anſwerable; and that the Sheriffs and other Magiſtrats foreſaids, require the aſſiſtance of the Commiſſioners of the Militia, in their reſpective Juriſdictions: And to ſearch for, take and apprehend the ſaid Traitors in their reſpective bounds; and in caſe they flye forth thereof, to advertiſe the Neighbouring, Sheriffs, and other Magiſtrats who are appointed to do the like diligence, conform to the 144. <hi>Act</hi> 12. <hi>Par.</hi> K. <hi>Ja.</hi> 6. And if in purſute of the ſaid Traitors they reſiſting to be taken, any of Our ſaids Magiſtrats, or other Our good Subjects ſhall happen to kill or mutilat them, or any of them, We do hereby declare that they nor none aſſiſting them ſhall ever be called in queſtion, or purſued Civilly or Criminally therefore in time coming; but that theſe Preſents ſhall be as ſufficient for their exoneration, as if they had Our ſpecial Remiſſion, and that their doing thereof ſhall be repute good and acceptable ſervice done to Us. And for the better encouragement of ſuch as ſhall apprehend and bring in the ſaid Traitors dead or alive, the Ap<g ref="char:EOLhyphen"/>prehender of Mr. <hi>Richard Cameron</hi> ſhall, as a Reward, have five thouſand Merks; and for Mr. <hi>Thomas Dowglas,</hi> M. <hi>Donald Cargil,</hi> and for the ſaid <hi>
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Cameron,</hi> brother to M. <hi>Richard,</hi> who read and affixt the ſaids Traiterous Declaration at <hi>Sanqhuar,</hi> three thouſand Merks for each of them, and one thouſand Merks for each one of the reſt of the Traitors abovementioned, to be inſtantly payed to them by the Commiſſioners of our The<g ref="char:EOLhyphen"/>ſaurary. And ordains theſe Preſents to be Printed, and publiſhed at the Mercat Croſſes of <hi>Edinburg,</hi> and Mercat Croſſes of the remnant head Burghs of the ſeveral Shires of this Kingdom on the South-ſide of the Water of <hi>Tay,</hi> and other places needful, by the Sheriffs of the reſpective Shires foreſaid, that none pretend ignorance.</p>
+            <closer>
+               <dateline>Given under our Signet at <hi>Edinburg,</hi> 
+                  <date>the laſt day of <hi>June,</hi> One thouſand ſix hundred and eighty, and of our Reign the thirty two Year.</date>
+               </dateline>
+               <signed>
+                  <hi>Per Actum Dominorum Secreti Concilii. WILL. PATERSON,</hi> Cl. Sti. Concil.</signed>
+               <lb/>
+God Save the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Reprinted at <hi>London,</hi> for <hi>Andrew Forreſter</hi> in <hi>Kingſtreet, Weſtminſter,</hi> Anno Dom. 1680.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
